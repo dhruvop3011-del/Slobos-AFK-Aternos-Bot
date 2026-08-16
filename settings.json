@@ -8,14 +8,14 @@
   "server": {
     "ip": "NoobrahSMP_OPTIMIZED.aternos.me",
     "port": 40326,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 50,
-    "y": 59,
-    "z": 50
+    "x": 0,
+    "y": 64,
+    "z": 0
   },
   "utils": {
     "auto-auth": {
